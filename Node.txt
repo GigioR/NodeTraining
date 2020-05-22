@@ -1,0 +1,26 @@
+Node.js
+
+O que é? 
+R: JS Runtime Environment. É diferente de um framework e também não é uma linguagem de programação. É um ambiente que permite executar o JS. 
+
+Pra quê serve?
+R: Produzir aplicações em back-end, em front-end, app em microserviços, scripts e automações, APIs para Web, Mobile, Desktop;
+
+Vantagens
+R: Sistema rápido em execução e prototipagem. Alta escalabilidade. Serve para criar apps "de ponta". Ecossistema gigante (NPM)
+(Netflix e Paypal usam, por exemplo) 
+
+JS em todo lugar, tanto no back quanto no front-end
+
+
+Como funciona?
+R: Engines, tipo o Chakra (do MS Edge), SpiderMonkey (do Firefox), V8 (Chrome)
+
+
+Async/Non-Blocking! -> Gerencia Requests mesmo que seja Single Thread, com o Event Loop.
+
+-----------------------
+
+
+Módulos:
+os.platform() - retorna a plataforma em que o Node está sendo utilizado
