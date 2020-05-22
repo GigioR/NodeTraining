@@ -21,6 +21,5 @@ Async/Non-Blocking! -> Gerencia Requests mesmo que seja Single Thread, com o Eve
 
 -----------------------
 
-
-Módulos:
-os.platform() - retorna a plataforma em que o Node está sendo utilizado
+npm init
+npm i nodemon (para poder fazer o server rodar sempre, mesmo que haja alterações)
